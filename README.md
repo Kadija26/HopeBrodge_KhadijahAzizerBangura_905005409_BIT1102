@@ -145,6 +145,43 @@ The colours are set as CSS custom properties at the top of `style.css`:
 | `--muted` | `#51605A` | Secondary text |
 | `--bg` | `#F7F9F6` | Page background |
 
+## SCREENSHOT
+
+## Hompe-Page
+<img width="1920" height="4128" alt="Screenshot 2026-11-24 at 11-10-53 Together We Build Brighter Communities HopeBridge" src="https://github.com/user-attachments/assets/2c1d4de4-5c54-4589-90a4-925254f7eb15" />
+
+## Project-Page
+<img width="1920" height="2929" alt="Screenshot 2026-11-24 at 11-11-53 Projects HopeBridge" src="https://github.com/user-attachments/assets/f0e186ef-a95e-4ead-be75-1d5e95744abb" />
+
+## Programm-Page
+<img width="1920" height="2931" alt="Screenshot 2026-11-24 at 11-13-05 Programmes HopeBridge" src="https://github.com/user-attachments/assets/a65a6c4b-e1e6-4492-bde0-dea540b1069f" />
+
+## About-Page
+<img width="1920" height="3243" alt="Screenshot 2026-11-24 at 11-14-06 About HopeBridge" src="https://github.com/user-attachments/assets/3e89d59b-dbf0-4c8f-9223-b1a929d3f2e2" />
+
+## Contact-Page
+<img width="1920" height="1990" alt="Screenshot 2026-11-24 at 11-15-31 Contact HopeBridge" src="https://github.com/user-attachments/assets/7c444e2e-17b9-43ac-8478-c456344a2e1c" />
+
+## Donation-Page
+<img width="1920" height="1942" alt="Screenshot 2026-11-24 at 11-16-27 Donate HopeBridge" src="https://github.com/user-attachments/assets/1b3fedae-9b97-4367-848e-29c6fe887af5" />
+
+## Apply-Page
+<img width="1920" height="2056" alt="Screenshot 2026-11-24 at 11-18-22 Volunteer application HopeBridge" src="https://github.com/user-attachments/assets/8f1f6048-679c-4133-8a81-0a4423887d33" />
+
+## Dashboard-Page
+<img width="1920" height="1638" alt="Screenshot 2026-11-24 at 11-19-29 Volunteer dashboard HopeBridge" src="https://github.com/user-attachments/assets/63f8121c-65c2-4587-ac31-98baa5fe795e" />
+
+## Get Involved-Page
+<img width="1920" height="1821" alt="Screenshot 2026-11-24 at 11-21-31 Get Involved HopeBridge" src="https://github.com/user-attachments/assets/c5ce5bc0-70a1-40b0-a6dd-691af8f229c5" />
+
+## Programm-Details-Page
+<img width="1920" height="3058" alt="Screenshot 2026-11-24 at 11-28-34 Girls&#39; School Library HopeBridge" src="https://github.com/user-attachments/assets/7ac8a9f0-fe86-48e6-b601-f05e28a7d119" />
+
+## Thank You-Page
+<img width="1920" height="1305" alt="Screenshot 2026-11-24 at 11-29-25 Thank you HopeBridge" src="https://github.com/user-attachments/assets/ea82c876-da93-43be-a72e-10cf14930172" />
+
+
+
 - **Typography:** Georgia (serif) for headings and the system UI font stack for body text.
 - **Logo:** an inline SVG of a bridge in a green circle.
 - **Responsive layout:** breakpoints at 900px, 700px and 560px. On small screens the menu becomes a hamburger, built with a CSS-only checkbox toggle.
