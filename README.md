@@ -89,6 +89,7 @@ HopeBridge/
 └── images/
     ├── hero.jpg
     ├── about.jpg
+    ├── girls-school-library.jpg
     ├── programme-education.jpg
     ├── programme-health.jpg
     ├── programme-water.jpg
@@ -167,7 +168,6 @@ Works in the latest versions of Chrome, Firefox, Edge and Safari (macOS and iOS)
 
 This is a **front-end prototype**. There is no back end yet, so none of the forms process data. They only link from one page to the next.
 
-- [ ] **Missing image:** `images/project-library.svg` is referenced in `index.html`, `projects.html` and `project-details.html`, but it isn't in the `images/` folder.
 - [ ] **Forms use `method="get"`.** Everything entered, including **passwords** on `get-involved.html`, ends up in the page URL. Switch to `POST` when you connect a back end.
 - [ ] **No real payments.** The donate form needs a payment provider (card, mobile money, bank transfer).
 - [ ] **No real accounts.** Volunteer sign-in, registration and the dashboard are static mock-ups.
